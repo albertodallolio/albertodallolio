@@ -1,3 +1,6 @@
+:school: Master Student @ETH, Zurich.  
+
+:mortar_board: Bachelor degree in Automation Engineering @Politecnico di Milano
 
 <!--
 **albertodallolio/albertodallolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
