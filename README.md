@@ -1,4 +1,4 @@
-:school: Master Student @ETH, Zurich.  
+:school: Master Student in Robotics, Systems and Control @ETH, Zurich.  
 
 :mortar_board: Bachelor degree in Automation Engineering @Politecnico di Milano
 
